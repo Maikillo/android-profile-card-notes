@@ -1,16 +1,18 @@
-# 📱 Cartão de Perfil Profissional
+# Notas do cartão de perfil Android
 
-## 📌 Descrição
-O **Cartão de Perfil Profissional** é um aplicativo Android desenvolvido em Kotlin com Jetpack Compose.  
-Ele exibe um cartão digital com informações profissionais do usuário (nome, cargo, contato e redes sociais), funcionando como uma versão moderna e interativa de um cartão de visitas. O app foi criado para praticar conceitos de UI declarativa e composição de elementos visuais no Android.
+Registro documental de um exercício Android. O conteúdo atual inclui README e configuração de IDE; não contém código do aplicativo nem build Gradle.
 
-## 🛠️ Tecnologias Utilizadas
-- **Kotlin** 1.9.x  
-- **Jetpack Compose** 1.6.x  
-- **Android Studio Giraffe | 2022.3.1 Patch 2**  
-- **Gradle** 8.x  
+## Tecnologias
 
-## ▶️ Como Compilar e Executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Maikillo/Cart-o-de-Perfil-Profissional.git
+Documentação.
+
+## Executar
+
+Não há aplicativo compilável nesta pasta. Consulte o [projeto com código Android](https://github.com/Maikillo/android-business-card). As configurações locais da IDE não fazem parte do código-fonte.
+
+## Escopo
+
+Projeto de estudo de Marcos Mendes. O objetivo é demonstrar os conceitos presentes no código; funcionalidades ainda ausentes não são anunciadas como prontas. Não utilize dados pessoais reais em exemplos.
+
+Repositório: [android-profile-card-notes](https://github.com/Maikillo/android-profile-card-notes).
+
